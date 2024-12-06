@@ -1,0 +1,15 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'EFCM.blg'
+[66] biber-MSWIN64:340> INFO - === 
+[92] Biber.pm:420> INFO - Reading 'EFCM.bcf'
+[156] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[163] Biber.pm:4463> INFO - Processing section 0
+[171] Biber.pm:4654> INFO - Looking for bibtex file 'EFCM.bib' for section 0
+[209] bibtex.pm:1713> INFO - LaTeX decoding ...
+[220] bibtex.pm:1519> INFO - Found BibTeX data source 'EFCM.bib'
+[284] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[284] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[284] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[286] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[297] bbl.pm:676> INFO - Writing 'EFCM.bbl' with encoding 'UTF-8'
+[302] bbl.pm:779> INFO - Output to EFCM.bbl

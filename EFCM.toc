@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Intentions}{4}{section.1}%
+\contentsline {section}{\numberline {2}Introduction}{5}{section.2}%
+\contentsline {section}{\numberline {3}Declaration of opinions}{5}{section.3}%
+\contentsline {section}{\numberline {4}Recent computational developments}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Zero Knowledge Proofs}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Machine learning in numerical methods}{6}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Decentralization and Ethics}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Recent case studies}{6}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Kleros~\blx@tocontentsinit {0}\cite {zhuk_2023_applying}}{6}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Tornado Cash~\blx@tocontentsinit {0}\cite {nadler_2023_tornado}~\blx@tocontentsinit {0}\cite {pertsev_2019_tornado}}{6}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}Perspectives}{6}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Hypotheticals}{6}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Macroeconomic trend prediction using live shipping data}{6}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Decentralization for internal and external policy}{6}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Commodities markets and their decentralization}{6}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}FX option markets and their decentralization}{6}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Commerical legal services and their decentralization}{6}{subsection.6.5}%
+\contentsline {section}{References}{8}{section*.2}%

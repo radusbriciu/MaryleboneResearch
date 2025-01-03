@@ -2373,16 +2373,14 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1" nocite="1">*</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">renedescartes_2008_a</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">ernstberger_2024_do</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">kuznetsov_2024_enhanced</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">nadler_2023_tornado</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">shahlaatapoor_2023_vss</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">smith_1776_the</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">delcey_2019_samuelson</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">zhuk_2023_applying</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">nadler_2023_tornado</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">pertsev_2019_tornado</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">ernstberger_2024_do</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">kuznetsov_2024_enhanced</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">nadler_2023_tornado</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">shahlaatapoor_2023_vss</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">delcey_2019_samuelson</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">zhuk_2023_applying</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">nadler_2023_tornado</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">pertsev_2019_tornado</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

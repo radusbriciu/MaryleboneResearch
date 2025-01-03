@@ -71,6 +71,45 @@
       \verb 10.1007/978-981-99-8721-4_13
       \endverb
     \endentry
+    \entry{beck_2019_machine}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=53a777055b139b74439193de18ada60c}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=268e9715905f2ab3cb20df636d3750c1}{%
+           family={E},
+           familyi={E\bibinitperiod},
+           given={Weinan},
+           giveni={W\bibinitperiod}}}%
+        {{hash=31ce46557e2d08499e8b06d041f40bf2}{%
+           family={Jentzen},
+           familyi={J\bibinitperiod},
+           given={Arnulf},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb592905e95486ef5243870097ddb251}
+      \strng{fullhash}{bb592905e95486ef5243870097ddb251}
+      \strng{fullhashraw}{bb592905e95486ef5243870097ddb251}
+      \strng{bibnamehash}{bb592905e95486ef5243870097ddb251}
+      \strng{authorbibnamehash}{bb592905e95486ef5243870097ddb251}
+      \strng{authornamehash}{bb592905e95486ef5243870097ddb251}
+      \strng{authorfullhash}{bb592905e95486ef5243870097ddb251}
+      \strng{authorfullhashraw}{bb592905e95486ef5243870097ddb251}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Nonlinear Science}
+      \field{month}{01}
+      \field{title}{Machine Learning Approximation Algorithms for High-Dimensional Fully Nonlinear Partial Differential Equations and Second-order Backward Stochastic Differential Equations}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1007/s00332-018-9525-3
+      \endverb
+    \endentry
     \entry{black_1973_the}{article}{}{}
       \name{author}{2}{}{%
         {{hash=93277dfc1ebe8d44428e74799781e4d7}{%
@@ -97,42 +136,20 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Political Economy}
-      \field{month}{05}
       \field{title}{The Pricing of Options and Corporate Liabilities}
       \field{volume}{81}
       \field{year}{1973}
       \true{nocite}
       \field{pages}{637\bibrangedash 654}
       \range{pages}{18}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/1831029?origin=JSTOR-pdf
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/1831029?origin=JSTOR-pdf
+      \endverb
     \endentry
-    \entry{callan_1999_the}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=d031f1fba3aa1c85b2d64a003c20a299}{%
-           family={Callan},
-           familyi={C\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Prentice Hall Europe}%
-      }
-      \strng{namehash}{d031f1fba3aa1c85b2d64a003c20a299}
-      \strng{fullhash}{d031f1fba3aa1c85b2d64a003c20a299}
-      \strng{fullhashraw}{d031f1fba3aa1c85b2d64a003c20a299}
-      \strng{bibnamehash}{d031f1fba3aa1c85b2d64a003c20a299}
-      \strng{authorbibnamehash}{d031f1fba3aa1c85b2d64a003c20a299}
-      \strng{authornamehash}{d031f1fba3aa1c85b2d64a003c20a299}
-      \strng{authorfullhash}{d031f1fba3aa1c85b2d64a003c20a299}
-      \strng{authorfullhashraw}{d031f1fba3aa1c85b2d64a003c20a299}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The essence of neural networks}
-      \field{year}{1999}
-      \true{nocite}
-    \endentry
-    \entry{aleern_2004_mathematical}{book}{}{}
+    \entry{ern_2004_mathematical}{book}{}{}
       \name{author}{1}{}{%
         {{hash=b309b9648457c2f8bed49599c40772fd}{%
            family={Černý},
@@ -156,9 +173,59 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{1}
-      \field{title}{Mathematical Techniques In Finance}
+      \field{title}{Mathematical Techniques In Finance: Tools for Incomplete Markets}
       \field{year}{2004}
       \true{nocite}
+    \endentry
+    \entry{aleern_2023_numeraireinvariant}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=b309b9648457c2f8bed49599c40772fd}{%
+           family={Černý},
+           familyi={Č\bibinitperiod},
+           given={Aleš},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ae58ca9871c24513194c8fa9deddb1a8}{%
+           family={Czichowsky},
+           familyi={C\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=36c4cd5f43b35f1971f5eb0ecfef32e7}{%
+           family={Kallsen},
+           familyi={K\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute for Operations Research}%
+        {the Management Sciences}%
+      }
+      \strng{namehash}{0ad728ececa0b69534fe39c8cad67642}
+      \strng{fullhash}{0ad728ececa0b69534fe39c8cad67642}
+      \strng{fullhashraw}{0ad728ececa0b69534fe39c8cad67642}
+      \strng{bibnamehash}{0ad728ececa0b69534fe39c8cad67642}
+      \strng{authorbibnamehash}{0ad728ececa0b69534fe39c8cad67642}
+      \strng{authornamehash}{0ad728ececa0b69534fe39c8cad67642}
+      \strng{authorfullhash}{0ad728ececa0b69534fe39c8cad67642}
+      \strng{authorfullhashraw}{0ad728ececa0b69534fe39c8cad67642}
+      \field{sortinit}{Č}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematics of Operations Research}
+      \field{month}{05}
+      \field{title}{Numeraire-Invariant Quadratic Hedging and Mean–Variance Portfolio Allocation}
+      \field{urlday}{8}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{49}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{752\bibrangedash 781}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1287/moor.2023.1374
+      \endverb
     \endentry
     \entry{delcey_2019_samuelson}{article}{}{}
       \name{author}{1}{}{%
@@ -185,43 +252,11 @@
       \field{title}{Samuelson vs Fama on the Efficient Market Hypothesis: The Point of View of Expertise}
       \field{volume}{9}
       \field{year}{2019}
-      \true{nocite}
       \field{pages}{37\bibrangedash 58}
       \range{pages}{22}
       \verb{doi}
       \verb 10.4000/oeconomia.5300
       \endverb
-    \endentry
-    \entry{renedescartes_2008_a}{book}{}{}
-      \name{author}{2}{}{%
-        {{hash=9f046e68c5b38bcc80be3d2cc6f58dd6}{%
-           family={Descartes},
-           familyi={D\bibinitperiod},
-           given={René},
-           giveni={R\bibinitperiod}}}%
-        {{hash=2727f94e8ea6e2fd0f3fa9650245c80b}{%
-           family={Maclean},
-           familyi={M\bibinitperiod},
-           given={Ian\bibnamedelimb W\bibnamedelima F},
-           giveni={I\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{04291cb036f3cc9f2baebe1a54d5288c}
-      \strng{fullhash}{04291cb036f3cc9f2baebe1a54d5288c}
-      \strng{fullhashraw}{04291cb036f3cc9f2baebe1a54d5288c}
-      \strng{bibnamehash}{04291cb036f3cc9f2baebe1a54d5288c}
-      \strng{authorbibnamehash}{04291cb036f3cc9f2baebe1a54d5288c}
-      \strng{authornamehash}{04291cb036f3cc9f2baebe1a54d5288c}
-      \strng{authorfullhash}{04291cb036f3cc9f2baebe1a54d5288c}
-      \strng{authorfullhashraw}{04291cb036f3cc9f2baebe1a54d5288c}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{A discourse on the method of correctly conducting one's reason and seeking truth in the sciences}
-      \field{year}{2008}
     \endentry
     \entry{ernstberger_2024_do}{misc}{}{}
       \name{author}{5}{}{%
@@ -272,6 +307,54 @@
       \verb https://eprint.iacr.org/2024/050.pdf
       \endverb
     \endentry
+    \entry{frey_2022_option}{misc}{}{}
+      \name{author}{4}{}{%
+        {{hash=4ca23d0c3a8d0fe1c68c78f1c2cc7154}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ed51ee52f37a6d207704a3910d78d2c3}{%
+           family={Scheuch},
+           familyi={S\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f87f28016daeeeaa478a3cb75f8667d0}{%
+           family={Voigt},
+           familyi={V\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7da95582928df2e918ed0b76aeaa3f35}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Tidy Finance}%
+      }
+      \strng{namehash}{092b3d76d3e828075c1baa60438fe74f}
+      \strng{fullhash}{f9c57fe7cbbb50b61f157759ffd7ef77}
+      \strng{fullhashraw}{f9c57fe7cbbb50b61f157759ffd7ef77}
+      \strng{bibnamehash}{092b3d76d3e828075c1baa60438fe74f}
+      \strng{authorbibnamehash}{092b3d76d3e828075c1baa60438fe74f}
+      \strng{authornamehash}{092b3d76d3e828075c1baa60438fe74f}
+      \strng{authorfullhash}{f9c57fe7cbbb50b61f157759ffd7ef77}
+      \strng{authorfullhashraw}{f9c57fe7cbbb50b61f157759ffd7ef77}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Option Pricing via Machine Learning with Python}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.tidy-finance.org/python/option-pricing-via-machine-learning.html
+      \endverb
+      \verb{url}
+      \verb https://www.tidy-finance.org/python/option-pricing-via-machine-learning.html
+      \endverb
+    \endentry
     \entry{gianlucafusai_2015_handbook}{book}{}{}
       \name{author}{3}{}{%
         {{hash=4319ce6766dcd2749b84ea427b130c01}{%
@@ -302,6 +385,7 @@
       \strng{authornamehash}{869d815097de428b6622e60b86f32f65}
       \strng{authorfullhash}{869d815097de428b6622e60b86f32f65}
       \strng{authorfullhashraw}{869d815097de428b6622e60b86f32f65}
+      \field{extraname}{1}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
@@ -311,6 +395,75 @@
       \field{year}{2015}
       \true{nocite}
     \endentry
+    \entry{fusai_2015_handbook}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=4319ce6766dcd2749b84ea427b130c01}{%
+           family={Fusai},
+           familyi={F\bibinitperiod},
+           given={Gianluca},
+           giveni={G\bibinitperiod}}}%
+        {{hash=06524fa1bf629a6e0e48da0a3a1b93b4}{%
+           family={Roncoroni},
+           familyi={R\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8c0008f6e938613d557794a4a4f7e0c9}{%
+           family={Cummins},
+           familyi={C\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{869d815097de428b6622e60b86f32f65}
+      \strng{fullhash}{869d815097de428b6622e60b86f32f65}
+      \strng{fullhashraw}{869d815097de428b6622e60b86f32f65}
+      \strng{bibnamehash}{869d815097de428b6622e60b86f32f65}
+      \strng{authorbibnamehash}{869d815097de428b6622e60b86f32f65}
+      \strng{authornamehash}{869d815097de428b6622e60b86f32f65}
+      \strng{authorfullhash}{869d815097de428b6622e60b86f32f65}
+      \strng{authorfullhashraw}{869d815097de428b6622e60b86f32f65}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{02}
+      \field{title}{Handbook of Multi-Commodity Markets and Products}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{gavin_2024_the}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=49f18664796eeb5696c9e5623d2c910b}{%
+           family={Gavin},
+           familyi={G\bibinitperiod},
+           given={Henri},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{49f18664796eeb5696c9e5623d2c910b}
+      \strng{fullhash}{49f18664796eeb5696c9e5623d2c910b}
+      \strng{fullhashraw}{49f18664796eeb5696c9e5623d2c910b}
+      \strng{bibnamehash}{49f18664796eeb5696c9e5623d2c910b}
+      \strng{authorbibnamehash}{49f18664796eeb5696c9e5623d2c910b}
+      \strng{authornamehash}{49f18664796eeb5696c9e5623d2c910b}
+      \strng{authorfullhash}{49f18664796eeb5696c9e5623d2c910b}
+      \strng{authorfullhashraw}{49f18664796eeb5696c9e5623d2c910b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Levenberg-Marquardt algorithm for nonlinear least squares curve-fitting problems}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://people.duke.edu/~hpgavin/lm.pdf
+      \endverb
+      \verb{url}
+      \verb https://people.duke.edu/~hpgavin/lm.pdf
+      \endverb
+    \endentry
     \entry{glasserman_2013_monte}{book}{}{}
       \name{author}{1}{}{%
         {{hash=ad8512135fae00796ff8f92716d977c9}{%
@@ -319,9 +472,8 @@
            given={Paul},
            giveni={P\bibinitperiod}}}%
       }
-      \list{publisher}{2}{%
-        {Springer Science}%
-        {Business Media}%
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
       }
       \strng{namehash}{ad8512135fae00796ff8f92716d977c9}
       \strng{fullhash}{ad8512135fae00796ff8f92716d977c9}
@@ -363,17 +515,65 @@
       \field{journaltitle}{Review of Financial Studies}
       \field{month}{04}
       \field{title}{A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options}
-      \field{urlday}{9}
-      \field{urlmonth}{8}
-      \field{urlyear}{2019}
       \field{volume}{6}
       \field{year}{1993}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{327\bibrangedash 343}
       \range{pages}{17}
       \verb{doi}
       \verb 10.1093/rfs/6.2.327
+      \endverb
+    \endentry
+    \entry{willemhundsdorfer_1995_a}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=b5b51671d4b657e228fe3827fb27b90b}{%
+           family={Hundsdorfer},
+           familyi={H\bibinitperiod},
+           given={Willem},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e689c221bb258e943310e1bbdb45e1df}{%
+           family={Koren},
+           familyi={K\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+        {{hash=53ca83c2a1aab5eea8dbd6f3e0faf73c}{%
+           family={Loon},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=c7f8d9aa6919ce0968e4b859f6ae304a}{%
+           family={Verwer},
+           familyi={V\bibinitperiod},
+           given={J\bibnamedelima G},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{add3d7cbdd2b1e3522fb709ba078b888}
+      \strng{fullhash}{37ca94a4646371867abda08546359bb2}
+      \strng{fullhashraw}{37ca94a4646371867abda08546359bb2}
+      \strng{bibnamehash}{add3d7cbdd2b1e3522fb709ba078b888}
+      \strng{authorbibnamehash}{add3d7cbdd2b1e3522fb709ba078b888}
+      \strng{authornamehash}{add3d7cbdd2b1e3522fb709ba078b888}
+      \strng{authorfullhash}{37ca94a4646371867abda08546359bb2}
+      \strng{authorfullhashraw}{37ca94a4646371867abda08546359bb2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{month}{03}
+      \field{title}{A Positive Finite-Difference Advection Scheme}
+      \field{volume}{117}
+      \field{year}{1995}
+      \true{nocite}
+      \field{pages}{35\bibrangedash 46}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1006/jcph.1995.1042
       \endverb
     \endentry
     \entry{philippejorion_2007_value}{book}{}{}
@@ -402,6 +602,39 @@
       \field{title}{Value at risk : the new benchmark for managing financial risk}
       \field{year}{2007}
       \true{nocite}
+    \endentry
+    \entry{kirenz_2022_using}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=3cf17521c084609615784d2b29743137}{%
+           family={Kirenz},
+           familyi={K\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Kirenz.com}%
+      }
+      \strng{namehash}{3cf17521c084609615784d2b29743137}
+      \strng{fullhash}{3cf17521c084609615784d2b29743137}
+      \strng{fullhashraw}{3cf17521c084609615784d2b29743137}
+      \strng{bibnamehash}{3cf17521c084609615784d2b29743137}
+      \strng{authorbibnamehash}{3cf17521c084609615784d2b29743137}
+      \strng{authornamehash}{3cf17521c084609615784d2b29743137}
+      \strng{authorfullhash}{3cf17521c084609615784d2b29743137}
+      \strng{authorfullhashraw}{3cf17521c084609615784d2b29743137}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Using Keras for Structured Data – Jan Kirenz}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.kirenz.com/blog/posts/2022-06-17-deep-learning-and-keras-data-preprocessing-with-structured-data/
+      \endverb
+      \verb{url}
+      \verb https://www.kirenz.com/blog/posts/2022-06-17-deep-learning-and-keras-data-preprocessing-with-structured-data/
+      \endverb
     \endentry
     \entry{kuznetsov_2024_enhanced}{article}{}{}
       \name{author}{6}{}{%
@@ -463,65 +696,93 @@
       \verb https://arxiv.org/abs/2402.03834
       \endverb
     \endentry
-    \entry{mackay_1841_memoirs}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=8b42b46ec820c4cea5b7d0bac7e5ce89}{%
-           family={Mackay},
-           familyi={M\bibinitperiod},
-           given={LL.D},
-           giveni={L\bibinitperiod},
-           suffix={Charles},
-           suffixi={C\bibinitperiod}}}%
+    \entry{leethorp_2022_fnet}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=9e32dc1e151f8ace06bd5dc3dfbedbc9}{%
+           family={Lee-Thorp},
+           familyi={L\bibinithyphendelim T\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c9e841fff6d89d0371c79b8b1eabe203}{%
+           family={Ainslie},
+           familyi={A\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+        {{hash=278dcb0b3eefce0e632e3bfd8ee84155}{%
+           family={Eckstein},
+           familyi={E\bibinitperiod},
+           given={Ilya},
+           giveni={I\bibinitperiod}}}%
+        {{hash=061a7410b9b96cc58ce8e08776b4b47a}{%
+           family={Ontanon},
+           familyi={O\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Alpha Editions}%
-      }
-      \strng{namehash}{8b42b46ec820c4cea5b7d0bac7e5ce89}
-      \strng{fullhash}{8b42b46ec820c4cea5b7d0bac7e5ce89}
-      \strng{fullhashraw}{8b42b46ec820c4cea5b7d0bac7e5ce89}
-      \strng{bibnamehash}{8b42b46ec820c4cea5b7d0bac7e5ce89}
-      \strng{authorbibnamehash}{8b42b46ec820c4cea5b7d0bac7e5ce89}
-      \strng{authornamehash}{8b42b46ec820c4cea5b7d0bac7e5ce89}
-      \strng{authorfullhash}{8b42b46ec820c4cea5b7d0bac7e5ce89}
-      \strng{authorfullhashraw}{8b42b46ec820c4cea5b7d0bac7e5ce89}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \strng{namehash}{726aace3cac69d52b1f4295c11117298}
+      \strng{fullhash}{c22cb91a3a00894fe12235e0d2db4455}
+      \strng{fullhashraw}{c22cb91a3a00894fe12235e0d2db4455}
+      \strng{bibnamehash}{726aace3cac69d52b1f4295c11117298}
+      \strng{authorbibnamehash}{726aace3cac69d52b1f4295c11117298}
+      \strng{authornamehash}{726aace3cac69d52b1f4295c11117298}
+      \strng{authorfullhash}{c22cb91a3a00894fe12235e0d2db4455}
+      \strng{authorfullhashraw}{c22cb91a3a00894fe12235e0d2db4455}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Memoirs of Extraordinary Popular Delusions and the Madness}
-      \field{volume}{1, 2}
-      \field{year}{1841}
+      \field{journaltitle}{arXiv:2105.03824 [cs]}
+      \field{month}{05}
+      \field{title}{FNet: Mixing Tokens with Fourier Transforms}
+      \field{year}{2022}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2105.03824
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2105.03824
+      \endverb
     \endentry
-    \entry{mcbride_2015_turingcompleteness}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=2c2c2406f3f7d52d846f02ca883d9b3d}{%
-           family={McBride},
-           familyi={M\bibinitperiod},
-           given={Conor},
+    \entry{liu_2019_pricing}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=c782cba07f60931258666d30169abf63}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shuaiqiang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0d3a1077f183823d0120836d81bdac72}{%
+           family={Oosterlee},
+           familyi={O\bibinitperiod},
+           given={Cornelis},
            giveni={C\bibinitperiod}}}%
+        {{hash=de87ec02ad9b28078d23c3cb25ae5ed6}{%
+           family={Bohte},
+           familyi={B\bibinitperiod},
+           given={Sander},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{2c2c2406f3f7d52d846f02ca883d9b3d}
-      \strng{fullhash}{2c2c2406f3f7d52d846f02ca883d9b3d}
-      \strng{fullhashraw}{2c2c2406f3f7d52d846f02ca883d9b3d}
-      \strng{bibnamehash}{2c2c2406f3f7d52d846f02ca883d9b3d}
-      \strng{authorbibnamehash}{2c2c2406f3f7d52d846f02ca883d9b3d}
-      \strng{authornamehash}{2c2c2406f3f7d52d846f02ca883d9b3d}
-      \strng{authorfullhash}{2c2c2406f3f7d52d846f02ca883d9b3d}
-      \strng{authorfullhashraw}{2c2c2406f3f7d52d846f02ca883d9b3d}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \strng{namehash}{7f32c64323dc1981df3dfcc37fb3f0d3}
+      \strng{fullhash}{7f32c64323dc1981df3dfcc37fb3f0d3}
+      \strng{fullhashraw}{7f32c64323dc1981df3dfcc37fb3f0d3}
+      \strng{bibnamehash}{7f32c64323dc1981df3dfcc37fb3f0d3}
+      \strng{authorbibnamehash}{7f32c64323dc1981df3dfcc37fb3f0d3}
+      \strng{authornamehash}{7f32c64323dc1981df3dfcc37fb3f0d3}
+      \strng{authorfullhash}{7f32c64323dc1981df3dfcc37fb3f0d3}
+      \strng{authorfullhashraw}{7f32c64323dc1981df3dfcc37fb3f0d3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Lecture Notes in Computer Science}
-      \field{month}{01}
-      \field{title}{Turing-Completeness Totally Free}
-      \field{year}{2015}
+      \field{journaltitle}{Risks}
+      \field{month}{02}
+      \field{title}{Pricing Options and Computing Implied Volatilities using Neural Networks}
+      \field{volume}{7}
+      \field{year}{2019}
       \true{nocite}
-      \field{pages}{257\bibrangedash 275}
-      \range{pages}{19}
+      \field{pages}{16}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.1007/978-3-319-19797-5_13
+      \verb 10.3390/risks7010016
       \endverb
     \endentry
     \entry{nadler_2023_tornado}{misc}{}{}
@@ -561,6 +822,43 @@
       \verb https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352337
       \endverb
     \endentry
+    \entry{parr_2021_partial}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c47f872d41a4441186be0d66723a9e57}{%
+           family={Parr},
+           familyi={P\bibinitperiod},
+           given={Terence},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e03fad41c81d46be3b8441ec99e3cba0}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ff70b0370cad6f9b34809cba1fde87f}
+      \strng{fullhash}{8ff70b0370cad6f9b34809cba1fde87f}
+      \strng{fullhashraw}{8ff70b0370cad6f9b34809cba1fde87f}
+      \strng{bibnamehash}{8ff70b0370cad6f9b34809cba1fde87f}
+      \strng{authorbibnamehash}{8ff70b0370cad6f9b34809cba1fde87f}
+      \strng{authornamehash}{8ff70b0370cad6f9b34809cba1fde87f}
+      \strng{authorfullhash}{8ff70b0370cad6f9b34809cba1fde87f}
+      \strng{authorfullhashraw}{8ff70b0370cad6f9b34809cba1fde87f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Learning with Applications}
+      \field{month}{12}
+      \field{title}{Partial dependence through stratification}
+      \field{volume}{6}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{100146}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.mlwa.2021.100146
+      \endverb
+    \endentry
     \entry{pertsev_2019_tornado}{misc}{}{}
       \name{author}{3}{}{%
         {{hash=661749137826a4867213ad7639377ef1}{%
@@ -593,7 +891,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Tornado Cash Privacy Solution Version 1.4}
       \field{year}{2019}
-      \true{nocite}
       \verb{urlraw}
       \verb https://berkeley-defi.github.io/assets/material/Tornado%20Cash%20Whitepaper.pdf
       \endverb
@@ -628,32 +925,140 @@
       \field{year}{2010}
       \true{nocite}
     \endentry
-    \entry{smith_1776_the}{book}{}{}
+    \entry{schnbucher_1999_a}{article}{}{}
       \name{author}{1}{}{%
-        {{hash=5ccecf114bbd51a1a2979a23dd69c78c}{%
-           family={Smith},
+        {{hash=341a6df97b672a8ec4144f76a4b291fb}{%
+           family={Schönbucher},
            familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
+           given={Philipp\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Seven Treasures Publications}%
-      }
-      \strng{namehash}{5ccecf114bbd51a1a2979a23dd69c78c}
-      \strng{fullhash}{5ccecf114bbd51a1a2979a23dd69c78c}
-      \strng{fullhashraw}{5ccecf114bbd51a1a2979a23dd69c78c}
-      \strng{bibnamehash}{5ccecf114bbd51a1a2979a23dd69c78c}
-      \strng{authorbibnamehash}{5ccecf114bbd51a1a2979a23dd69c78c}
-      \strng{authornamehash}{5ccecf114bbd51a1a2979a23dd69c78c}
-      \strng{authorfullhash}{5ccecf114bbd51a1a2979a23dd69c78c}
-      \strng{authorfullhashraw}{5ccecf114bbd51a1a2979a23dd69c78c}
+      \strng{namehash}{341a6df97b672a8ec4144f76a4b291fb}
+      \strng{fullhash}{341a6df97b672a8ec4144f76a4b291fb}
+      \strng{fullhashraw}{341a6df97b672a8ec4144f76a4b291fb}
+      \strng{bibnamehash}{341a6df97b672a8ec4144f76a4b291fb}
+      \strng{authorbibnamehash}{341a6df97b672a8ec4144f76a4b291fb}
+      \strng{authornamehash}{341a6df97b672a8ec4144f76a4b291fb}
+      \strng{authorfullhash}{341a6df97b672a8ec4144f76a4b291fb}
+      \strng{authorfullhashraw}{341a6df97b672a8ec4144f76a4b291fb}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{title}{A Market Model for Stochastic Implied Volatility}
+      \field{volume}{21}
+      \field{year}{1999}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.2139/ssrn.182775
+      \endverb
+    \endentry
+    \entry{yuan_2024_deep}{misc}{}{}
+      \name{author}{4}{}{%
+        {{hash=1ce4eb84b8441cb4f47e328910e194f7}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fe8af4531a2b4f950378eda1f0da235d}{%
+           family={Brigo},
+           familyi={B\bibinitperiod},
+           given={Damiano},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d47a3ab456d3cda505b07d3e4d1c7ceb}{%
+           family={Jacquier},
+           familyi={J\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e78caee5f5a221b77486834fe2823cfd}{%
+           family={Pede},
+           familyi={P\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {arXiv.org}%
+      }
+      \strng{namehash}{4c40bbe6f5105d0c6b16d3a1c86064ed}
+      \strng{fullhash}{97c81e5ae92b94ab5b3222d8812fa22a}
+      \strng{fullhashraw}{97c81e5ae92b94ab5b3222d8812fa22a}
+      \strng{bibnamehash}{4c40bbe6f5105d0c6b16d3a1c86064ed}
+      \strng{authorbibnamehash}{4c40bbe6f5105d0c6b16d3a1c86064ed}
+      \strng{authornamehash}{4c40bbe6f5105d0c6b16d3a1c86064ed}
+      \strng{authorfullhash}{97c81e5ae92b94ab5b3222d8812fa22a}
+      \strng{authorfullhashraw}{97c81e5ae92b94ab5b3222d8812fa22a}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deep learning interpretability for rough volatility}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2411.19317
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2411.19317
+      \endverb
+    \endentry
+    \entry{zhang_2024_bilevel}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=d795a1bfe15c3573bda31f8798b4d26a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zixuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=3d77236892c5009d0769ef912d3495b5}{%
+           family={Chronopoulos},
+           familyi={C\bibinitperiod},
+           given={Michail},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f351431bf7bd7564e7d0b6b2a0c17aa4}{%
+           family={Kyriakou},
+           familyi={K\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod}}}%
+        {{hash=3e87196a4b596f4574d15c72b5222694}{%
+           family={Dimitrova},
+           familyi={D\bibinitperiod},
+           given={Dimitrina\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{a6e74acdca5d14d76123f6259afc6e3a}
+      \strng{fullhash}{d03fa5bee4e8d495c5c247c9274ea0b7}
+      \strng{fullhashraw}{d03fa5bee4e8d495c5c247c9274ea0b7}
+      \strng{bibnamehash}{a6e74acdca5d14d76123f6259afc6e3a}
+      \strng{authorbibnamehash}{a6e74acdca5d14d76123f6259afc6e3a}
+      \strng{authornamehash}{a6e74acdca5d14d76123f6259afc6e3a}
+      \strng{authorfullhash}{d03fa5bee4e8d495c5c247c9274ea0b7}
+      \strng{authorfullhashraw}{d03fa5bee4e8d495c5c247c9274ea0b7}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Operational Research}
       \field{month}{03}
-      \field{title}{The Wealth of Nations}
-      \field{year}{1776}
+      \field{title}{Bi-level optimisation of subsidy and capacity investment under competition and uncertainty}
+      \field{urlday}{26}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{volume}{318}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{327\bibrangedash 340}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.ejor.2024.03.028
+      \endverb
     \endentry
     \entry{zhuk_2023_applying}{article}{}{}
       \name{author}{1}{}{%
@@ -680,7 +1085,6 @@
       \field{title}{Applying blockchain to the modern legal system: Kleros as a decentralised dispute resolution system}
       \field{volume}{4}
       \field{year}{2023}
-      \true{nocite}
       \verb{doi}
       \verb 10.1365/s43439-023-00086-x
       \endverb

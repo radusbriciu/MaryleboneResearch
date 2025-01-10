@@ -2373,14 +2373,36 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1" nocite="1">*</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">ernstberger_2024_do</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">kuznetsov_2024_enhanced</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">nadler_2023_tornado</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">shahlaatapoor_2023_vss</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">delcey_2019_samuelson</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">zhuk_2023_applying</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">nadler_2023_tornado</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">pertsev_2019_tornado</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">ernstberger_2024_do</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">kuznetsov_2024_enhanced</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">nadler_2023_tornado</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">shahlaatapoor_2023_vss</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">delcey_2019_samuelson</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">ernstberger_2024_do</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">leethorp_2022_fnet</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">beck_2019_machine</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">kirenz_2022_using</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">parr_2021_partial</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">yuan_2024_deep</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">briciu_2024_estimating</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">zhuk_2023_applying</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">zhuk_2023_applying</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">nadler_2023_tornado</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">pertsev_2019_tornado</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">cofense_2024_phishme</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">polymarket</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">quantgovhome_2025_quantgov</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">a2019_tinyurlcom</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">mybib_2018_mybib</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">orcid_2019_orcid</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">kobeissi_2018_an</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">kobeissi_2018_an</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">a2018_wikimedia</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">data</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">a2024_library</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">a2023_subdial</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">a2024_pentester</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">econvizorgmacroeconomicvisualizations_2025_econvizorg</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

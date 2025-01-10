@@ -105,7 +105,6 @@
       \field{month}{01}
       \field{title}{Machine Learning Approximation Algorithms for High-Dimensional Fully Nonlinear Partial Differential Equations and Second-order Backward Stochastic Differential Equations}
       \field{year}{2019}
-      \true{nocite}
       \verb{doi}
       \verb 10.1007/s00332-018-9525-3
       \endverb
@@ -147,6 +146,36 @@
       \endverb
       \verb{url}
       \verb https://www.jstor.org/stable/1831029?origin=JSTOR-pdf
+      \endverb
+    \endentry
+    \entry{briciu_2024_estimating}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=3bd1776df5e583b6e9faf3c3f32b88b5}{%
+           family={Briciu},
+           familyi={B\bibinitperiod},
+           given={Radu},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3bd1776df5e583b6e9faf3c3f32b88b5}
+      \strng{fullhash}{3bd1776df5e583b6e9faf3c3f32b88b5}
+      \strng{fullhashraw}{3bd1776df5e583b6e9faf3c3f32b88b5}
+      \strng{bibnamehash}{3bd1776df5e583b6e9faf3c3f32b88b5}
+      \strng{authorbibnamehash}{3bd1776df5e583b6e9faf3c3f32b88b5}
+      \strng{authornamehash}{3bd1776df5e583b6e9faf3c3f32b88b5}
+      \strng{authorfullhash}{3bd1776df5e583b6e9faf3c3f32b88b5}
+      \strng{authorfullhashraw}{3bd1776df5e583b6e9faf3c3f32b88b5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Estimating non-linear stochastic functions from generated structured data using multi-layer perceptron models with applications to pricing path-dependent financial derivatives}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/radusbriciu/machine-learning-option-pricing/blob/main/manuscript.pdf
+      \endverb
+      \verb{url}
+      \verb https://github.com/radusbriciu/machine-learning-option-pricing/blob/main/manuscript.pdf
       \endverb
     \endentry
     \entry{ern_2004_mathematical}{book}{}{}
@@ -225,6 +254,51 @@
       \range{pages}{30}
       \verb{doi}
       \verb 10.1287/moor.2023.1374
+      \endverb
+    \endentry
+    \entry{cofense_2024_phishme}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=bab02566204911693f067f5b37224b24}{%
+           family={Cofense},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Cofense.com}%
+      }
+      \strng{namehash}{bab02566204911693f067f5b37224b24}
+      \strng{fullhash}{bab02566204911693f067f5b37224b24}
+      \strng{fullhashraw}{bab02566204911693f067f5b37224b24}
+      \strng{bibnamehash}{bab02566204911693f067f5b37224b24}
+      \strng{authorbibnamehash}{bab02566204911693f067f5b37224b24}
+      \strng{authornamehash}{bab02566204911693f067f5b37224b24}
+      \strng{authorfullhash}{bab02566204911693f067f5b37224b24}
+      \strng{authorfullhashraw}{bab02566204911693f067f5b37224b24}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PhishMe Security Awareness Training (SAT) Platform | Cofense}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://cofense.com/phishme-security-awareness-training-(sat)-platform
+      \endverb
+      \verb{url}
+      \verb https://cofense.com/phishme-security-awareness-training-(sat)-platform
+      \endverb
+    \endentry
+    \entry{data}{misc}{}{}
+      \list{organization}{1}{%
+        {www.dataannotation.tech}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{title}{Data Annotation | Your New Remote Job}
+      \verb{urlraw}
+      \verb https://www.dataannotation.tech/
+      \endverb
+      \verb{url}
+      \verb https://www.dataannotation.tech/
       \endverb
     \endentry
     \entry{delcey_2019_samuelson}{article}{}{}
@@ -355,46 +429,6 @@
       \verb https://www.tidy-finance.org/python/option-pricing-via-machine-learning.html
       \endverb
     \endentry
-    \entry{gianlucafusai_2015_handbook}{book}{}{}
-      \name{author}{3}{}{%
-        {{hash=4319ce6766dcd2749b84ea427b130c01}{%
-           family={Fusai},
-           familyi={F\bibinitperiod},
-           given={Gianluca},
-           giveni={G\bibinitperiod}}}%
-        {{hash=06524fa1bf629a6e0e48da0a3a1b93b4}{%
-           family={Roncoroni},
-           familyi={R\bibinitperiod},
-           given={Andrea},
-           giveni={A\bibinitperiod}}}%
-        {{hash=8c0008f6e938613d557794a4a4f7e0c9}{%
-           family={Cummins},
-           familyi={C\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{2}{%
-        {John Wiley}%
-        {Sons}%
-      }
-      \strng{namehash}{869d815097de428b6622e60b86f32f65}
-      \strng{fullhash}{869d815097de428b6622e60b86f32f65}
-      \strng{fullhashraw}{869d815097de428b6622e60b86f32f65}
-      \strng{bibnamehash}{869d815097de428b6622e60b86f32f65}
-      \strng{authorbibnamehash}{869d815097de428b6622e60b86f32f65}
-      \strng{authornamehash}{869d815097de428b6622e60b86f32f65}
-      \strng{authorfullhash}{869d815097de428b6622e60b86f32f65}
-      \strng{authorfullhashraw}{869d815097de428b6622e60b86f32f65}
-      \field{extraname}{1}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{02}
-      \field{title}{Handbook of Multi-Commodity Markets and Products}
-      \field{year}{2015}
-      \true{nocite}
-    \endentry
     \entry{fusai_2015_handbook}{book}{}{}
       \name{author}{3}{}{%
         {{hash=4319ce6766dcd2749b84ea427b130c01}{%
@@ -424,7 +458,6 @@
       \strng{authornamehash}{869d815097de428b6622e60b86f32f65}
       \strng{authorfullhash}{869d815097de428b6622e60b86f32f65}
       \strng{authorfullhashraw}{869d815097de428b6622e60b86f32f65}
-      \field{extraname}{2}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
@@ -628,12 +661,41 @@
       \field{labeltitlesource}{title}
       \field{title}{Using Keras for Structured Data – Jan Kirenz}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.kirenz.com/blog/posts/2022-06-17-deep-learning-and-keras-data-preprocessing-with-structured-data/
       \endverb
       \verb{url}
       \verb https://www.kirenz.com/blog/posts/2022-06-17-deep-learning-and-keras-data-preprocessing-with-structured-data/
+      \endverb
+    \endentry
+    \entry{kobeissi_2018_an}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=0f35eebe37f0e324e3e210f1beb69677}{%
+           family={Kobeissi},
+           familyi={K\bibinitperiod},
+           given={Nadim},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f35eebe37f0e324e3e210f1beb69677}
+      \strng{fullhash}{0f35eebe37f0e324e3e210f1beb69677}
+      \strng{fullhashraw}{0f35eebe37f0e324e3e210f1beb69677}
+      \strng{bibnamehash}{0f35eebe37f0e324e3e210f1beb69677}
+      \strng{authorbibnamehash}{0f35eebe37f0e324e3e210f1beb69677}
+      \strng{authornamehash}{0f35eebe37f0e324e3e210f1beb69677}
+      \strng{authorfullhash}{0f35eebe37f0e324e3e210f1beb69677}
+      \strng{authorfullhashraw}{0f35eebe37f0e324e3e210f1beb69677}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cryptology ePrint Archive}
+      \field{title}{An Analysis of the ProtonMail Cryptographic Architecture}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://eprint.iacr.org/2018/1121
+      \endverb
+      \verb{url}
+      \verb https://eprint.iacr.org/2018/1121
       \endverb
     \endentry
     \entry{kuznetsov_2024_enhanced}{article}{}{}
@@ -735,12 +797,31 @@
       \field{month}{05}
       \field{title}{FNet: Mixing Tokens with Fourier Transforms}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2105.03824
       \endverb
       \verb{url}
       \verb https://arxiv.org/abs/2105.03824
+      \endverb
+    \endentry
+    \entry{a2024_library}{misc}{}{}
+      \list{organization}{1}{%
+        {Berkeley.edu}%
+      }
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{title}{Library Guides: Art History: Encyclopedia \& Biographical Sources}
+      \field{urlday}{6}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://guides.lib.berkeley.edu/c.php?g=478634&p=4684317
+      \endverb
+      \verb{url}
+      \verb https://guides.lib.berkeley.edu/c.php?g=478634&p=4684317
       \endverb
     \endentry
     \entry{liu_2019_pricing}{article}{}{}
@@ -785,6 +866,39 @@
       \verb 10.3390/risks7010016
       \endverb
     \endentry
+    \entry{mybib_2018_mybib}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=fd6cd2108f06923363c77b2e39e516e7}{%
+           family={MyBib},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {MyBib}%
+      }
+      \list{publisher}{1}{%
+        {MyBib}%
+      }
+      \strng{namehash}{fd6cd2108f06923363c77b2e39e516e7}
+      \strng{fullhash}{fd6cd2108f06923363c77b2e39e516e7}
+      \strng{fullhashraw}{fd6cd2108f06923363c77b2e39e516e7}
+      \strng{bibnamehash}{fd6cd2108f06923363c77b2e39e516e7}
+      \strng{authorbibnamehash}{fd6cd2108f06923363c77b2e39e516e7}
+      \strng{authornamehash}{fd6cd2108f06923363c77b2e39e516e7}
+      \strng{authorfullhash}{fd6cd2108f06923363c77b2e39e516e7}
+      \strng{authorfullhashraw}{fd6cd2108f06923363c77b2e39e516e7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MyBib}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://mybib.com
+      \endverb
+      \verb{url}
+      \verb https://mybib.com
+      \endverb
+    \endentry
     \entry{nadler_2023_tornado}{misc}{}{}
       \name{author}{2}{}{%
         {{hash=5986c484e8cae441dbd31917707d0445}{%
@@ -822,6 +936,36 @@
       \verb https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352337
       \endverb
     \endentry
+    \entry{orcid_2019_orcid}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=185191c40858d73b573b4267574e5fba}{%
+           family={ORCiD},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Orcid.org}%
+      }
+      \strng{namehash}{185191c40858d73b573b4267574e5fba}
+      \strng{fullhash}{185191c40858d73b573b4267574e5fba}
+      \strng{fullhashraw}{185191c40858d73b573b4267574e5fba}
+      \strng{bibnamehash}{185191c40858d73b573b4267574e5fba}
+      \strng{authorbibnamehash}{185191c40858d73b573b4267574e5fba}
+      \strng{authornamehash}{185191c40858d73b573b4267574e5fba}
+      \strng{authorfullhash}{185191c40858d73b573b4267574e5fba}
+      \strng{authorfullhashraw}{185191c40858d73b573b4267574e5fba}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ORCiD}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://orcid.org/
+      \endverb
+      \verb{url}
+      \verb https://orcid.org/
+      \endverb
+    \endentry
     \entry{parr_2021_partial}{article}{}{}
       \name{author}{2}{}{%
         {{hash=c47f872d41a4441186be0d66723a9e57}{%
@@ -852,11 +996,30 @@
       \field{title}{Partial dependence through stratification}
       \field{volume}{6}
       \field{year}{2021}
-      \true{nocite}
       \field{pages}{100146}
       \range{pages}{1}
       \verb{doi}
       \verb 10.1016/j.mlwa.2021.100146
+      \endverb
+    \endentry
+    \entry{a2024_pentester}{misc}{}{}
+      \list{organization}{1}{%
+        {Pentester.com}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{Pentester}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pentester.com
+      \endverb
+      \verb{url}
+      \verb https://pentester.com
       \endverb
     \endentry
     \entry{pertsev_2019_tornado}{misc}{}{}
@@ -896,6 +1059,82 @@
       \endverb
       \verb{url}
       \verb https://berkeley-defi.github.io/assets/material/Tornado%20Cash%20Whitepaper.pdf
+      \endverb
+    \endentry
+    \entry{pharr_2004_gpu}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=c69ff00a5e1719a4ad2dddd6254ac3c9}{%
+           family={Pharr},
+           familyi={P\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{c69ff00a5e1719a4ad2dddd6254ac3c9}
+      \strng{fullhash}{c69ff00a5e1719a4ad2dddd6254ac3c9}
+      \strng{fullhashraw}{c69ff00a5e1719a4ad2dddd6254ac3c9}
+      \strng{bibnamehash}{c69ff00a5e1719a4ad2dddd6254ac3c9}
+      \strng{authorbibnamehash}{c69ff00a5e1719a4ad2dddd6254ac3c9}
+      \strng{authornamehash}{c69ff00a5e1719a4ad2dddd6254ac3c9}
+      \strng{authorfullhash}{c69ff00a5e1719a4ad2dddd6254ac3c9}
+      \strng{authorfullhashraw}{c69ff00a5e1719a4ad2dddd6254ac3c9}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GPU gems 2 : programming techniques for high-performance graphics and general-purpose computation}
+      \field{year}{2004}
+      \true{nocite}
+    \endentry
+    \entry{polymarket}{misc}{}{}
+      \list{organization}{1}{%
+        {Polymarket}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{Polymarket | The World's Largest Prediction Market}
+      \verb{urlraw}
+      \verb https://polymarket.com/
+      \endverb
+      \verb{url}
+      \verb https://polymarket.com/
+      \endverb
+    \endentry
+    \entry{quantgovhome_2025_quantgov}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=6ac2881ee846610d09d22d5da4b0ae85}{%
+           family={QuantGov-Home},
+           familyi={Q\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {QuantGov}%
+      }
+      \strng{namehash}{6ac2881ee846610d09d22d5da4b0ae85}
+      \strng{fullhash}{6ac2881ee846610d09d22d5da4b0ae85}
+      \strng{fullhashraw}{6ac2881ee846610d09d22d5da4b0ae85}
+      \strng{bibnamehash}{6ac2881ee846610d09d22d5da4b0ae85}
+      \strng{authorbibnamehash}{6ac2881ee846610d09d22d5da4b0ae85}
+      \strng{authornamehash}{6ac2881ee846610d09d22d5da4b0ae85}
+      \strng{authorfullhash}{6ac2881ee846610d09d22d5da4b0ae85}
+      \strng{authorfullhashraw}{6ac2881ee846610d09d22d5da4b0ae85}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{QuantGov}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.quantgov.org/
+      \endverb
+      \verb{url}
+      \verb https://www.quantgov.org/
       \endverb
     \endentry
     \entry{reitano_2010_introduction}{book}{}{}
@@ -954,6 +1193,137 @@
       \verb 10.2139/ssrn.182775
       \endverb
     \endentry
+    \entry{a2023_subdial}{misc}{}{}
+      \list{organization}{1}{%
+        {Subdial Clubhouse}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{Subdial}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://subdial.com
+      \endverb
+      \verb{url}
+      \verb https://subdial.com
+      \endverb
+    \endentry
+    \entry{a2019_tinyurlcom}{misc}{}{}
+      \list{organization}{1}{%
+        {Tinyurl.com}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{TinyURL.com - shorten that long URL into a tiny URL}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://tinyurl.com/
+      \endverb
+      \verb{url}
+      \verb https://tinyurl.com/
+      \endverb
+    \endentry
+    \entry{econvizorgmacroeconomicvisualizations_2025_econvizorg}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=0d8fd2c1a32dc59dcfe6e466693f65ea}{%
+           family={Visualizations},
+           familyi={V\bibinitperiod},
+           given={EconViz.org\bibnamedelimb -\bibnamedelima Macroeconomic},
+           giveni={E\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Econviz.org}%
+      }
+      \strng{namehash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
+      \strng{fullhash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
+      \strng{fullhashraw}{0d8fd2c1a32dc59dcfe6e466693f65ea}
+      \strng{bibnamehash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
+      \strng{authorbibnamehash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
+      \strng{authornamehash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
+      \strng{authorfullhash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
+      \strng{authorfullhashraw}{0d8fd2c1a32dc59dcfe6e466693f65ea}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EconViz.org - Macroeconomic Visualizations}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://econviz.org/
+      \endverb
+      \verb{url}
+      \verb https://econviz.org/
+      \endverb
+    \endentry
+    \entry{vorobets_2024_portfolio}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=4e0ff35cdd5a7beeef8f65058e299a08}{%
+           family={Vorobets},
+           familyi={V\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RELX Group (Netherlands)}%
+      }
+      \strng{namehash}{4e0ff35cdd5a7beeef8f65058e299a08}
+      \strng{fullhash}{4e0ff35cdd5a7beeef8f65058e299a08}
+      \strng{fullhashraw}{4e0ff35cdd5a7beeef8f65058e299a08}
+      \strng{bibnamehash}{4e0ff35cdd5a7beeef8f65058e299a08}
+      \strng{authorbibnamehash}{4e0ff35cdd5a7beeef8f65058e299a08}
+      \strng{authornamehash}{4e0ff35cdd5a7beeef8f65058e299a08}
+      \strng{authorfullhash}{4e0ff35cdd5a7beeef8f65058e299a08}
+      \strng{authorfullhashraw}{4e0ff35cdd5a7beeef8f65058e299a08}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{month}{01}
+      \field{title}{Portfolio Construction and Risk Management}
+      \field{urlday}{8}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.2139/ssrn.4807200
+      \endverb
+      \verb{urlraw}
+      \verb https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4807200
+      \endverb
+      \verb{url}
+      \verb https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4807200
+      \endverb
+    \endentry
+    \entry{a2018_wikimedia}{misc}{}{}
+      \list{organization}{1}{%
+        {Wikimedia Foundation}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{title}{Wikimedia Foundation}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://wikimediafoundation.org/
+      \endverb
+      \verb{url}
+      \verb https://wikimediafoundation.org/
+      \endverb
+    \endentry
     \entry{yuan_2024_deep}{misc}{}{}
       \name{author}{4}{}{%
         {{hash=1ce4eb84b8441cb4f47e328910e194f7}{%
@@ -998,7 +1368,6 @@
       \field{urlyear}{2024}
       \field{year}{2024}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2411.19317
       \endverb

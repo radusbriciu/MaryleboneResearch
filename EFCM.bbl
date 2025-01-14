@@ -65,6 +65,7 @@
       \field{urlyear}{2024}
       \field{year}{2023}
       \field{urldateera}{ce}
+      \true{nocite}
       \field{pages}{405\bibrangedash 440}
       \range{pages}{36}
       \verb{doi}
@@ -286,6 +287,39 @@
       \verb https://cofense.com/phishme-security-awareness-training-(sat)-platform
       \endverb
     \endentry
+    \entry{thepoliticalcompass_2018_the}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=21035f980dcca81f32bc38daf02a420f}{%
+           family={Compass},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelima Political},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Politicalcompass.org}%
+      }
+      \strng{namehash}{21035f980dcca81f32bc38daf02a420f}
+      \strng{fullhash}{21035f980dcca81f32bc38daf02a420f}
+      \strng{fullhashraw}{21035f980dcca81f32bc38daf02a420f}
+      \strng{bibnamehash}{21035f980dcca81f32bc38daf02a420f}
+      \strng{authorbibnamehash}{21035f980dcca81f32bc38daf02a420f}
+      \strng{authornamehash}{21035f980dcca81f32bc38daf02a420f}
+      \strng{authorfullhash}{21035f980dcca81f32bc38daf02a420f}
+      \strng{authorfullhashraw}{21035f980dcca81f32bc38daf02a420f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{02}
+      \field{title}{The Political Compass}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.politicalcompass.org/
+      \endverb
+      \verb{url}
+      \verb https://www.politicalcompass.org/
+      \endverb
+    \endentry
     \entry{data}{misc}{}{}
       \list{organization}{1}{%
         {www.dataannotation.tech}%
@@ -326,6 +360,7 @@
       \field{title}{Samuelson vs Fama on the Efficient Market Hypothesis: The Point of View of Expertise}
       \field{volume}{9}
       \field{year}{2019}
+      \true{nocite}
       \field{pages}{37\bibrangedash 58}
       \range{pages}{22}
       \verb{doi}
@@ -550,7 +585,6 @@
       \field{title}{A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options}
       \field{volume}{6}
       \field{year}{1993}
-      \true{nocite}
       \field{pages}{327\bibrangedash 343}
       \range{pages}{17}
       \verb{doi}
@@ -746,6 +780,7 @@
       \field{journaltitle}{IEEE Access}
       \field{title}{Enhanced Security and Efficiency in Blockchain with Aggregated Zero-Knowledge Proof Mechanisms}
       \field{year}{2024}
+      \true{nocite}
       \field{pages}{1\bibrangedash 1}
       \range{pages}{1}
       \verb{doi}
@@ -1296,7 +1331,6 @@
       \field{urlyear}{2025}
       \field{year}{2024}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb 10.2139/ssrn.4807200
       \endverb

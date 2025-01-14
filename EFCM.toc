@@ -22,17 +22,20 @@
 \contentsline {subsection}{\numberline {3.13}Subdial~\blx@tocontentsinit {0}\cite {a2023_subdial}}{7}{subsection.3.13}%
 \contentsline {subsection}{\numberline {3.14}Pentester~\blx@tocontentsinit {0}\cite {a2024_pentester}}{7}{subsection.3.14}%
 \contentsline {subsection}{\numberline {3.15}EconViz~\blx@tocontentsinit {0}\cite {econvizorgmacroeconomicvisualizations_2025_econvizorg}}{7}{subsection.3.15}%
+\contentsline {subsection}{\numberline {3.16}PC Part Picker}{8}{subsection.3.16}%
+\contentsline {subsection}{\numberline {3.17}The Political Compass~\blx@tocontentsinit {0}\cite {thepoliticalcompass_2018_the}}{8}{subsection.3.17}%
 \contentsline {section}{\numberline {4}\textit {The OS wars}}{8}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Environment Intractability}{8}{subsection.4.1}%
 \contentsline {subsubsection}{\numberline {4.1.1}Entropy Pooling~\blx@tocontentsinit {0}\cite {vorobets_2024_portfolio}}{8}{subsubsection.4.1.1}%
 \contentsline {subsubsection}{\numberline {4.1.2}Stochastic Volatility~\blx@tocontentsinit {0}\cite {heston_1993_a}~\blx@tocontentsinit {0}\cite {briciu_2024_estimating}}{8}{subsubsection.4.1.2}%
 \contentsline {section}{\numberline {5}Quantitative trading strategies}{8}{section.5}%
 \contentsline {subsection}{\numberline {5.1}Macroeconomic trend prediction using live shipping data}{8}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Political spectrum matrix sentiment analysis}{8}{subsection.5.2}%
 \contentsline {section}{\numberline {6}Blockchain security and pipeline transparency}{9}{section.6}%
 \contentsline {subsection}{\numberline {6.1}Commodities markets}{9}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}FX option markets}{9}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}Commerical legal services}{9}{subsection.6.3}%
 \contentsline {section}{\numberline {7}Engineering concepts}{9}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Integrating solar panels into protected forestry domain}{9}{subsection.7.1}%
+\contentsline {section}{\numberline {8}Modern Tactics}{9}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Artificial Scarcity}{9}{subsection.8.1}%
 \contentsline {section}{References}{13}{section*.2}%

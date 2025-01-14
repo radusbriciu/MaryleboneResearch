@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.14)  13 JAN 2025 11:04
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.14)  14 JAN 2025 22:12
  restricted system commands enabled.
 **EFCM.tex
 (./EFCM.tex
@@ -642,6 +642,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [4]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\cite' on input line 45.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 45.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 45.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 47.
 
 
@@ -654,46 +666,46 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 49.
+(hyperref)                removing `\cite' on input line 47.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 49.
+(hyperref)                removing `subscript' on input line 47.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 49.
+(hyperref)                removing `subscript' on input line 47.
 
 
 
 [5]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\cite' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 51.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 51.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 51.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 53.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -705,11 +717,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 55.
+(hyperref)                removing `\cite' on input line 57.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 57.
+(hyperref)                removing `subscript' on input line 57.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -748,19 +760,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 63.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 63.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 65.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 65.
-
-
-Overfull \hbox (3.28807pt too wide) in paragraph at lines 66--67
+Overfull \hbox (3.28807pt too wide) in paragraph at lines 64--65
 \TU/lmr/m/n/10.95 The Wiki-me-dia Foun-da-tion emerged as a fi-nan-cial sup-port
 er of the Wikipedia
  []
@@ -770,7 +770,15 @@ er of the Wikipedia
 [6]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 67.
+(hyperref)                removing `\cite' on input line 65.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\cite' on input line 69.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -790,15 +798,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 75.
+(hyperref)                removing `subscript' on input line 73.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 75.
+(hyperref)                removing `\cite' on input line 76.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 75.
+(hyperref)                removing `subscript' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 76.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -836,37 +848,32 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 81.
 
-<images/uk2010.png, id=298, 481.8pt x 401.5pt>
-File: images/uk2010.png Graphic file (type png)
-<use images/uk2010.png>
-Package luatex.def Info: images/uk2010.png  used on input line 87.
-(luatex.def)             Requested size: 288.0011pt x 240.0074pt.
 
 
 [7]
 
-[8<./images/uk2010.png>]
+[8]
 
 [9]
-Overfull \hbox (16.83687pt too wide) in paragraph at lines 102--102
+Overfull \hbox (16.83687pt too wide) in paragraph at lines 100--100
 []\TU/lmr/m/n/10.95 Aleš Černý, Christoph Czi-chowsky, and Jan Kallsen. ``Num
 eraire-Invariant
  []
 
 
-Overfull \hbox (2.55684pt too wide) in paragraph at lines 102--102
+Overfull \hbox (2.55684pt too wide) in paragraph at lines 100--100
 \TU/lmr/m/n/10.95 Quadratic Hedg-ing and Mean–Vari-ance Port-fo-lio Al-lo-ca-t
 ion''. In: \TU/lmr/m/it/10.95 Math-
  []
 
 
-Overfull \hbox (14.66867pt too wide) in paragraph at lines 102--102
+Overfull \hbox (14.66867pt too wide) in paragraph at lines 100--100
 []\TU/lmr/m/n/10.95 Cofense. \TU/lmr/m/it/10.95 PhishMe Se-cu-rity Aware-ness Tr
 ain-ing (SAT) Plat-form | Cofense\TU/lmr/m/n/10.95 .
  []
 
 
-Overfull \hbox (3.49245pt too wide) in paragraph at lines 102--102
+Overfull \hbox (3.49245pt too wide) in paragraph at lines 100--100
 []\TU/lmr/m/n/10.95 Christoph Frey et al. \TU/lmr/m/it/10.95 Op-tion Pric-ing vi
 a Ma-chine Learn-ing with Python\TU/lmr/m/n/10.95 .
  []
@@ -874,19 +881,19 @@ a Ma-chine Learn-ing with Python\TU/lmr/m/n/10.95 .
 
 
 [10]
-Overfull \hbox (4.22968pt too wide) in paragraph at lines 102--102
+Overfull \hbox (4.22968pt too wide) in paragraph at lines 100--100
 \TU/lmr/m/n/10.95 Scheme''. In: \TU/lmr/m/it/10.95 Jour-nal of Com-pu-ta-tional Physics \TU/lmr/m/n/10.95 117 (Mar. 1995), pp. 35
 –
  []
 
 
-Overfull \hbox (7.16437pt too wide) in paragraph at lines 102--102
+Overfull \hbox (7.16437pt too wide) in paragraph at lines 100--100
 \TU/lmtt/m/n/10.95 deep - learning - and - keras - data - preprocessing - with 
 - structured -
  []
 
 
-Overfull \hbox (24.83401pt too wide) in paragraph at lines 102--102
+Overfull \hbox (24.83401pt too wide) in paragraph at lines 100--100
 []\TU/lmr/m/n/10.95 Olek-sandr Kuznetsov et al. ``En-hanced Se-cu-rity and Ef-fi
 -ciency in Blockchain
  []
@@ -894,32 +901,32 @@ Overfull \hbox (24.83401pt too wide) in paragraph at lines 102--102
 
 
 [11]
-Overfull \hbox (16.95358pt too wide) in paragraph at lines 102--102
+Overfull \hbox (16.95358pt too wide) in paragraph at lines 100--100
 \TU/lmr/m/n/10.95 i-fi-ca-tion''. In: \TU/lmr/m/it/10.95 Ma-chine Learn-ing with
  Ap-pli-ca-tions \TU/lmr/m/n/10.95 6 (Dec. 2021), p. 100146.
  []
 
 
-Overfull \hbox (8.47751pt too wide) in paragraph at lines 102--102
+Overfull \hbox (8.47751pt too wide) in paragraph at lines 100--100
 []\TU/lmr/m/n/10.95 Matt Pharr. \TU/lmr/m/it/10.95 GPU gems 2 : pro-gram-ming te
 ch-niques for high-performance
  []
 
 
-Overfull \hbox (7.34926pt too wide) in paragraph at lines 102--102
+Overfull \hbox (7.34926pt too wide) in paragraph at lines 100--100
 []\TU/lmr/m/n/10.95 Philipp J. Schön-bucher. ``A Mar-ket Model for Stochas-tic Im-plied Volatil-
  []
 
 
 
 [12]
-Overfull \hbox (16.00821pt too wide) in paragraph at lines 102--102
+Overfull \hbox (16.00821pt too wide) in paragraph at lines 100--100
 []\TU/lmr/m/n/10.95 Bo Yuan et al. \TU/lmr/m/it/10.95 Deep learn-ing in-ter-pret
 abil-ity for rough volatil-ity\TU/lmr/m/n/10.95 . arXiv.org,
  []
 
 
-Overfull \hbox (20.29587pt too wide) in paragraph at lines 102--102
+Overfull \hbox (20.29587pt too wide) in paragraph at lines 100--100
 \TU/lmr/m/n/10.95 2024. \TU/lmr/m/sc/10.95 url\TU/lmr/m/n/10.95 : [][]$\TU/lmtt
 /m/n/10.95 https : / / arxiv . org / abs / 2411 . 19317$[][] \TU/lmr/m/n/10.95 
 (vis-ited on 12/15/2024). 
@@ -932,31 +939,22 @@ Overfull \hbox (20.29587pt too wide) in paragraph at lines 102--102
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `EFCM.out' has not changed.
-(rerunfilecheck)             Checksum: 1D348FE8A3B1B45402D8C37513D68D4C;7535.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                EFCM
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 39BA4B47B814C1238141E1B40448F211;7961.
 Package logreq Info: Writing requests to 'EFCM.run.xml'.
 
 \openout1 = EFCM.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 16688 strings out of 475664
+ 16681 strings out of 475664
  125165,1373583 words of node,token memory allocated
  661 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 22 attribute, 63 glue_spec
 , 22 attribute_list, 1 write, 18 pdf_action nodes
-   avail lists: 1:2,2:944,3:426,4:338,5:409,6:148,7:5297,8:109,9:581,10:6,11:340
+   avail lists: 1:1,2:951,3:434,4:346,5:416,6:151,7:5504,8:109,9:592,10:6,11:340
 
- 39212 multiletter control sequences out of 65536+600000
+ 39205 multiletter control sequences out of 65536+600000
  41 fonts using 3237415 bytes
  66i,6n,78p,692b,1246s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/boomelage/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmon
@@ -970,9 +968,9 @@ m/lmroman10-bold.otf><c:/users/boomelage/appdata/local/programs/miktex/fonts/ope
 ntype/public/lm/lmroman10-regular.otf><c:/users/boomelage/appdata/local/programs
 /miktex/fonts/opentype/public/lm/lmroman12-regular.otf><c:/users/boomelage/appda
 ta/local/programs/miktex/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on EFCM.pdf (13 pages, 164927 bytes).
+Output written on EFCM.pdf (13 pages, 143054 bytes).
 
-PDF statistics: 476 PDF objects out of 1000 (max. 8388607)
- 96 named destinations out of 1000 (max. 131072)
- 305 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 493 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 131072)
+ 329 words of extra memory for PDF output out of 10000 (max. 100000000)
 

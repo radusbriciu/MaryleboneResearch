@@ -1,37 +1,22 @@
-\contentsline {section}{\numberline {1}Introduction}{5}{section.1}%
-\contentsline {section}{\numberline {2}Recent computational developments}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Zero Knowledge Proofs}{5}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Machine learning in numerical methods}{5}{subsection.2.2}%
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {section}{\numberline {2}Recent computational developments}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Zero Knowledge Proofs}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Machine learning in numerical methods}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Artificial General Intelligence (AGI)}{5}{subsection.2.3}%
 \contentsline {subsubsection}{\numberline {2.3.1}OpenAI}{5}{subsubsection.2.3.1}%
 \contentsline {subsubsection}{\numberline {2.3.2}Google}{5}{subsubsection.2.3.2}%
 \contentsline {subsubsection}{\numberline {2.3.3}GitHub}{5}{subsubsection.2.3.3}%
-\contentsline {section}{\numberline {3}Internet tools}{5}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Tornado Cash~\blx@tocontentsinit {0}\cite {nadler_2023_tornado}~\blx@tocontentsinit {0}\cite {pertsev_2019_tornado}}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}TinyURL~\blx@tocontentsinit {0}\cite {a2019_tinyurlcom}}{6}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}MyBib~\blx@tocontentsinit {0}\cite {mybib_2018_mybib}}{6}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}ProtonMail~\blx@tocontentsinit {0}\cite {kobeissi_2018_an}}{6}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}The Wikimedia Foundation~\blx@tocontentsinit {0}\cite {a2018_wikimedia}}{6}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Data Annotation~\blx@tocontentsinit {0}\cite {data}}{6}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Online Museums}{6}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Subdial~\blx@tocontentsinit {0}\cite {a2023_subdial}}{6}{subsection.3.8}%
-\contentsline {subsection}{\numberline {3.9}EconViz~\blx@tocontentsinit {0}\cite {econvizorgmacroeconomicvisualizations_2025_econvizorg}}{6}{subsection.3.9}%
-\contentsline {subsection}{\numberline {3.10}The Political Compass~\blx@tocontentsinit {0}\cite {thepoliticalcompass_2018_the}}{7}{subsection.3.10}%
-\contentsline {subsection}{\numberline {3.11}Bitcoin Core~\blx@tocontentsinit {0}\cite {bitcoin}}{7}{subsection.3.11}%
-\contentsline {subsection}{\numberline {3.12}TeXstudio}{7}{subsection.3.12}%
-\contentsline {section}{\numberline {4}\textit {The OS wars}}{8}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Environment Intractability}{8}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Entropy Pooling~\blx@tocontentsinit {0}\cite {vorobets_2024_portfolio}}{8}{subsubsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.2}Stochastic Volatility~\blx@tocontentsinit {0}\cite {heston_1993_a}~\blx@tocontentsinit {0}\cite {briciu_2024_estimating}}{8}{subsubsection.4.1.2}%
-\contentsline {section}{\numberline {5}Quantitative trading strategies}{8}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Macroeconomic trend prediction using live shipping data}{8}{subsection.5.1}%
-\contentsline {section}{\numberline {6}Blockchain security and pipeline transparency}{8}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Commodities markets}{8}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}FX option markets}{8}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Commerical legal services}{8}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Engineering concepts}{8}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Integrating solar panels into protected forestry domain}{8}{subsection.7.1}%
-\contentsline {section}{\numberline {8}Modern Tactics}{8}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Artificial Scarcity}{8}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Herding}{8}{subsection.8.2}%
-\contentsline {section}{References}{12}{section*.2}%
+\contentsline {section}{\numberline {3}\textit {The OS wars}}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Environment Intractability}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Entropy Pooling~\blx@tocontentsinit {0}\cite {vorobets_2024_portfolio}}{5}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Stochastic Volatility~\blx@tocontentsinit {0}\cite {heston_1993_a}}{5}{subsubsection.3.1.2}%
+\contentsline {section}{\numberline {4}Quantitative trading strategies}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Macroeconomic trend prediction using live shipping data}{5}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Blockchain security and pipeline transparency}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Commodities markets}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}FX option markets}{5}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Commerical legal services}{5}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Modern Tactics}{5}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Artificial Scarcity}{5}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Herding}{5}{subsection.6.2}%
+\contentsline {section}{References}{9}{section*.2}%

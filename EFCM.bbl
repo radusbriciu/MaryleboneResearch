@@ -19,57 +19,183 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
-    \entry{shahlaatapoor_2023_vss}{article}{}{}
+    \entry{ang_2009_high}{article}{}{}
       \name{author}{4}{}{%
-        {{hash=1f0f05e4e82538d0ec8ef571c79b1f69}{%
-           family={Atapoor},
+        {{hash=fdb83eec8db55fcc1e2e23e3c32dc62f}{%
+           family={Ang},
            familyi={A\bibinitperiod},
-           given={Shahla},
-           giveni={S\bibinitperiod}}}%
-        {{hash=2841c1cdb7356995564aa661dbc9822a}{%
-           family={Baghery},
-           familyi={B\bibinitperiod},
-           given={Karim},
-           giveni={K\bibinitperiod}}}%
-        {{hash=f9ff554f95248ffbe689664c52b3ddb3}{%
-           family={Cozzo},
-           familyi={C\bibinitperiod},
-           given={Daniele},
-           giveni={D\bibinitperiod}}}%
-        {{hash=950b79821b02668c3ff86e4e0ecbd9f7}{%
-           family={Pedersen},
-           familyi={P\bibinitperiod},
-           given={Robi},
-           giveni={R\bibinitperiod}}}%
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7fa301742147e211d87cd4907cf0f336}{%
+           family={Hodrick},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=3699dcaeadd2412cb2ed528b141f8f0d}{%
+           family={Xing},
+           familyi={X\bibinitperiod},
+           given={Yuhang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5b996621da6e0ca32bcc27f9c7ceaed4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Springer Science+Business Media}%
-      }
-      \strng{namehash}{062aee0566b5170b18a5f1f2a21b9c83}
-      \strng{fullhash}{ff7163e322b3494118abcf1c89ec9d2c}
-      \strng{fullhashraw}{ff7163e322b3494118abcf1c89ec9d2c}
-      \strng{bibnamehash}{062aee0566b5170b18a5f1f2a21b9c83}
-      \strng{authorbibnamehash}{062aee0566b5170b18a5f1f2a21b9c83}
-      \strng{authornamehash}{062aee0566b5170b18a5f1f2a21b9c83}
-      \strng{authorfullhash}{ff7163e322b3494118abcf1c89ec9d2c}
-      \strng{authorfullhashraw}{ff7163e322b3494118abcf1c89ec9d2c}
+      \strng{namehash}{bc83a598a48e22ca6ca9f66ffe499dea}
+      \strng{fullhash}{2b871c28b1e68266c205056e099b44c7}
+      \strng{fullhashraw}{2b871c28b1e68266c205056e099b44c7}
+      \strng{bibnamehash}{bc83a598a48e22ca6ca9f66ffe499dea}
+      \strng{authorbibnamehash}{bc83a598a48e22ca6ca9f66ffe499dea}
+      \strng{authornamehash}{bc83a598a48e22ca6ca9f66ffe499dea}
+      \strng{authorfullhash}{2b871c28b1e68266c205056e099b44c7}
+      \strng{authorfullhashraw}{2b871c28b1e68266c205056e099b44c7}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Lecture notes in computer science}
+      \field{journaltitle}{Journal of Financial Economics}
       \field{month}{01}
-      \field{title}{VSS from Distributed ZK Proofs and Applications}
+      \field{title}{High idiosyncratic volatility and low returns: International and further U.S. evidence}
+      \field{volume}{91}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 23}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1016/j.jfineco.2007.12.005
+      \endverb
+    \endentry
+    \entry{ballotta_2014_multivariate}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=f190fa5b4f254427f545e9a507627493}{%
+           family={Ballotta},
+           familyi={B\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a3562177fcc91d1fdc8fcf1a8b064c9e}{%
+           family={Bonfiglioli},
+           familyi={B\bibinitperiod},
+           given={Efrem},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{93a98d8b9b6fb0f4348e0c47e1167145}
+      \strng{fullhash}{93a98d8b9b6fb0f4348e0c47e1167145}
+      \strng{fullhashraw}{93a98d8b9b6fb0f4348e0c47e1167145}
+      \strng{bibnamehash}{93a98d8b9b6fb0f4348e0c47e1167145}
+      \strng{authorbibnamehash}{93a98d8b9b6fb0f4348e0c47e1167145}
+      \strng{authornamehash}{93a98d8b9b6fb0f4348e0c47e1167145}
+      \strng{authorfullhash}{93a98d8b9b6fb0f4348e0c47e1167145}
+      \strng{authorfullhashraw}{93a98d8b9b6fb0f4348e0c47e1167145}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Finance}
+      \field{month}{04}
+      \field{title}{Multivariate asset models using Lévy processes and applications}
+      \field{volume}{22}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{1320\bibrangedash 1350}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1080/1351847x.2013.870917
+      \endverb
+    \endentry
+    \entry{ballotta_2001_a}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=f190fa5b4f254427f545e9a507627493}{%
+           family={Ballotta},
+           familyi={B\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ecf1ad01cc8b6591c54e614f80ae0b29}{%
+           family={Kyprianou},
+           familyi={K\bibinitperiod},
+           given={Andreas\bibnamedelima E},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{77bdea8ad0635b661b1d2dc65bd1cfc3}
+      \strng{fullhash}{77bdea8ad0635b661b1d2dc65bd1cfc3}
+      \strng{fullhashraw}{77bdea8ad0635b661b1d2dc65bd1cfc3}
+      \strng{bibnamehash}{77bdea8ad0635b661b1d2dc65bd1cfc3}
+      \strng{authorbibnamehash}{77bdea8ad0635b661b1d2dc65bd1cfc3}
+      \strng{authornamehash}{77bdea8ad0635b661b1d2dc65bd1cfc3}
+      \strng{authorfullhash}{77bdea8ad0635b661b1d2dc65bd1cfc3}
+      \strng{authorfullhashraw}{77bdea8ad0635b661b1d2dc65bd1cfc3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Mathematical Finance}
+      \field{month}{09}
+      \field{title}{A note on the α-quantile option}
+      \field{urlday}{20}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{137\bibrangedash 144}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1080/13504860210122375
+      \endverb
+    \endentry
+    \entry{aurelbaloi_2023_gpubased}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=48b742bd80022acf0b6549405f2953d1}{%
+           family={Baloi},
+           familyi={B\bibinitperiod},
+           given={Aurel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6dacd83f9031d09f877295f7479fcf83}{%
+           family={Belean},
+           familyi={B\bibinitperiod},
+           given={Bogdan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bf0034f0462f9b9a294af152d2cf1fc7}{%
+           family={Turcu},
+           familyi={T\bibinitperiod},
+           given={Flaviu},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e4acd2d016d0ac70db6e240a07cc9382}{%
+           family={Peptenatu},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science+Business Media}%
+      }
+      \strng{namehash}{9bda7898ff298df6ea1130706c5848a7}
+      \strng{fullhash}{cb6d9ac81fd11803b879c7624f84ec30}
+      \strng{fullhashraw}{cb6d9ac81fd11803b879c7624f84ec30}
+      \strng{bibnamehash}{9bda7898ff298df6ea1130706c5848a7}
+      \strng{authorbibnamehash}{9bda7898ff298df6ea1130706c5848a7}
+      \strng{authornamehash}{9bda7898ff298df6ea1130706c5848a7}
+      \strng{authorfullhash}{cb6d9ac81fd11803b879c7624f84ec30}
+      \strng{authorfullhashraw}{cb6d9ac81fd11803b879c7624f84ec30}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soft Computing}
+      \field{month}{06}
+      \field{title}{GPU-based similarity metrics computation and machine learning approaches for string similarity evaluation in large datasets}
       \field{urlday}{5}
-      \field{urlmonth}{12}
+      \field{urlmonth}{3}
       \field{urlyear}{2024}
       \field{year}{2023}
       \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{405\bibrangedash 440}
-      \range{pages}{36}
       \verb{doi}
-      \verb 10.1007/978-981-99-8721-4_13
+      \verb 10.1007/s00500-023-08687-8
       \endverb
     \endentry
     \entry{beck_2019_machine}{article}{}{}
@@ -108,21 +234,6 @@
       \field{year}{2019}
       \verb{doi}
       \verb 10.1007/s00332-018-9525-3
-      \endverb
-    \endentry
-    \entry{bitcoin}{misc}{}{}
-      \list{organization}{1}{%
-        {bitcoin.org}%
-      }
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labeltitlesource}{title}
-      \field{title}{Bitcoin Core}
-      \verb{urlraw}
-      \verb https://bitcoin.org/en/bitcoin-core/
-      \endverb
-      \verb{url}
-      \verb https://bitcoin.org/en/bitcoin-core/
       \endverb
     \endentry
     \entry{black_1973_the}{article}{}{}
@@ -164,35 +275,65 @@
       \verb https://www.jstor.org/stable/1831029?origin=JSTOR-pdf
       \endverb
     \endentry
-    \entry{briciu_2024_estimating}{article}{}{}
+    \entry{boyle_2020_statistics}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=3bd1776df5e583b6e9faf3c3f32b88b5}{%
-           family={Briciu},
+        {{hash=e7b77f698838c385ee0a5932d4f10a36}{%
+           family={Boyle},
            familyi={B\bibinitperiod},
-           given={Radu},
-           giveni={R\bibinitperiod}}}%
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
       }
-      \strng{namehash}{3bd1776df5e583b6e9faf3c3f32b88b5}
-      \strng{fullhash}{3bd1776df5e583b6e9faf3c3f32b88b5}
-      \strng{fullhashraw}{3bd1776df5e583b6e9faf3c3f32b88b5}
-      \strng{bibnamehash}{3bd1776df5e583b6e9faf3c3f32b88b5}
-      \strng{authorbibnamehash}{3bd1776df5e583b6e9faf3c3f32b88b5}
-      \strng{authornamehash}{3bd1776df5e583b6e9faf3c3f32b88b5}
-      \strng{authorfullhash}{3bd1776df5e583b6e9faf3c3f32b88b5}
-      \strng{authorfullhashraw}{3bd1776df5e583b6e9faf3c3f32b88b5}
+      \list{publisher}{1}{%
+        {Independently Published}%
+      }
+      \strng{namehash}{e7b77f698838c385ee0a5932d4f10a36}
+      \strng{fullhash}{e7b77f698838c385ee0a5932d4f10a36}
+      \strng{fullhashraw}{e7b77f698838c385ee0a5932d4f10a36}
+      \strng{bibnamehash}{e7b77f698838c385ee0a5932d4f10a36}
+      \strng{authorbibnamehash}{e7b77f698838c385ee0a5932d4f10a36}
+      \strng{authornamehash}{e7b77f698838c385ee0a5932d4f10a36}
+      \strng{authorfullhash}{e7b77f698838c385ee0a5932d4f10a36}
+      \strng{authorfullhashraw}{e7b77f698838c385ee0a5932d4f10a36}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{12}
-      \field{title}{Estimating non-linear stochastic functions from generated structured data using multi-layer perceptron models with applications to pricing path-dependent financial derivatives}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://github.com/radusbriciu/machine-learning-option-pricing/blob/main/manuscript.pdf
-      \endverb
-      \verb{url}
-      \verb https://github.com/radusbriciu/machine-learning-option-pricing/blob/main/manuscript.pdf
-      \endverb
+      \field{month}{05}
+      \field{title}{Statistics for the Trading Floor: Data Science for Investing}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{boyle_2020_derivatives}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=e7b77f698838c385ee0a5932d4f10a36}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=523bc4ee5348c9c27d0ca6267bfe0b69}{%
+           family={Mcdougall},
+           familyi={M\bibinitperiod},
+           given={Jesse},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Independently Published}%
+      }
+      \strng{namehash}{95d47fc695b1a9707760dc4d89f21032}
+      \strng{fullhash}{95d47fc695b1a9707760dc4d89f21032}
+      \strng{fullhashraw}{95d47fc695b1a9707760dc4d89f21032}
+      \strng{bibnamehash}{95d47fc695b1a9707760dc4d89f21032}
+      \strng{authorbibnamehash}{95d47fc695b1a9707760dc4d89f21032}
+      \strng{authornamehash}{95d47fc695b1a9707760dc4d89f21032}
+      \strng{authorfullhash}{95d47fc695b1a9707760dc4d89f21032}
+      \strng{authorfullhashraw}{95d47fc695b1a9707760dc4d89f21032}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Derivatives for the Trading Floor: Futures, Options and Swaps}
+      \field{year}{2020}
+      \true{nocite}
     \endentry
     \entry{ern_2004_mathematical}{book}{}{}
       \name{author}{1}{}{%
@@ -270,54 +411,6 @@
       \range{pages}{30}
       \verb{doi}
       \verb 10.1287/moor.2023.1374
-      \endverb
-    \endentry
-    \entry{thepoliticalcompass_2018_the}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=21035f980dcca81f32bc38daf02a420f}{%
-           family={Compass},
-           familyi={C\bibinitperiod},
-           given={The\bibnamedelima Political},
-           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Politicalcompass.org}%
-      }
-      \strng{namehash}{21035f980dcca81f32bc38daf02a420f}
-      \strng{fullhash}{21035f980dcca81f32bc38daf02a420f}
-      \strng{fullhashraw}{21035f980dcca81f32bc38daf02a420f}
-      \strng{bibnamehash}{21035f980dcca81f32bc38daf02a420f}
-      \strng{authorbibnamehash}{21035f980dcca81f32bc38daf02a420f}
-      \strng{authornamehash}{21035f980dcca81f32bc38daf02a420f}
-      \strng{authorfullhash}{21035f980dcca81f32bc38daf02a420f}
-      \strng{authorfullhashraw}{21035f980dcca81f32bc38daf02a420f}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{02}
-      \field{title}{The Political Compass}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb https://www.politicalcompass.org/
-      \endverb
-      \verb{url}
-      \verb https://www.politicalcompass.org/
-      \endverb
-    \endentry
-    \entry{data}{misc}{}{}
-      \list{organization}{1}{%
-        {www.dataannotation.tech}%
-      }
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labeltitlesource}{title}
-      \field{title}{Data Annotation | Your New Remote Job}
-      \verb{urlraw}
-      \verb https://www.dataannotation.tech/
-      \endverb
-      \verb{url}
-      \verb https://www.dataannotation.tech/
       \endverb
     \endentry
     \entry{delcey_2019_samuelson}{article}{}{}
@@ -399,54 +492,6 @@
       \endverb
       \verb{url}
       \verb https://eprint.iacr.org/2024/050.pdf
-      \endverb
-    \endentry
-    \entry{frey_2022_option}{misc}{}{}
-      \name{author}{4}{}{%
-        {{hash=4ca23d0c3a8d0fe1c68c78f1c2cc7154}{%
-           family={Frey},
-           familyi={F\bibinitperiod},
-           given={Christoph},
-           giveni={C\bibinitperiod}}}%
-        {{hash=ed51ee52f37a6d207704a3910d78d2c3}{%
-           family={Scheuch},
-           familyi={S\bibinitperiod},
-           given={Christoph},
-           giveni={C\bibinitperiod}}}%
-        {{hash=f87f28016daeeeaa478a3cb75f8667d0}{%
-           family={Voigt},
-           familyi={V\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=7da95582928df2e918ed0b76aeaa3f35}{%
-           family={Weiss},
-           familyi={W\bibinitperiod},
-           given={Patrick},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Tidy Finance}%
-      }
-      \strng{namehash}{092b3d76d3e828075c1baa60438fe74f}
-      \strng{fullhash}{f9c57fe7cbbb50b61f157759ffd7ef77}
-      \strng{fullhashraw}{f9c57fe7cbbb50b61f157759ffd7ef77}
-      \strng{bibnamehash}{092b3d76d3e828075c1baa60438fe74f}
-      \strng{authorbibnamehash}{092b3d76d3e828075c1baa60438fe74f}
-      \strng{authornamehash}{092b3d76d3e828075c1baa60438fe74f}
-      \strng{authorfullhash}{f9c57fe7cbbb50b61f157759ffd7ef77}
-      \strng{authorfullhashraw}{f9c57fe7cbbb50b61f157759ffd7ef77}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Option Pricing via Machine Learning with Python}
-      \field{year}{2022}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://www.tidy-finance.org/python/option-pricing-via-machine-learning.html
-      \endverb
-      \verb{url}
-      \verb https://www.tidy-finance.org/python/option-pricing-via-machine-learning.html
       \endverb
     \endentry
     \entry{fusai_2015_handbook}{book}{}{}
@@ -721,38 +766,6 @@
       \field{year}{2007}
       \true{nocite}
     \endentry
-    \entry{kirenz_2022_using}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=3cf17521c084609615784d2b29743137}{%
-           family={Kirenz},
-           familyi={K\bibinitperiod},
-           given={Jan},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Kirenz.com}%
-      }
-      \strng{namehash}{3cf17521c084609615784d2b29743137}
-      \strng{fullhash}{3cf17521c084609615784d2b29743137}
-      \strng{fullhashraw}{3cf17521c084609615784d2b29743137}
-      \strng{bibnamehash}{3cf17521c084609615784d2b29743137}
-      \strng{authorbibnamehash}{3cf17521c084609615784d2b29743137}
-      \strng{authornamehash}{3cf17521c084609615784d2b29743137}
-      \strng{authorfullhash}{3cf17521c084609615784d2b29743137}
-      \strng{authorfullhashraw}{3cf17521c084609615784d2b29743137}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Using Keras for Structured Data – Jan Kirenz}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.kirenz.com/blog/posts/2022-06-17-deep-learning-and-keras-data-preprocessing-with-structured-data/
-      \endverb
-      \verb{url}
-      \verb https://www.kirenz.com/blog/posts/2022-06-17-deep-learning-and-keras-data-preprocessing-with-structured-data/
-      \endverb
-    \endentry
     \entry{kobeissi_2018_an}{article}{}{}
       \name{author}{1}{}{%
         {{hash=0f35eebe37f0e324e3e210f1beb69677}{%
@@ -776,6 +789,7 @@
       \field{journaltitle}{Cryptology ePrint Archive}
       \field{title}{An Analysis of the ProtonMail Cryptographic Architecture}
       \field{year}{2018}
+      \true{nocite}
       \verb{urlraw}
       \verb https://eprint.iacr.org/2018/1121
       \endverb
@@ -890,26 +904,6 @@
       \verb https://arxiv.org/abs/2105.03824
       \endverb
     \endentry
-    \entry{a2024_library}{misc}{}{}
-      \list{organization}{1}{%
-        {Berkeley.edu}%
-      }
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{labeltitlesource}{title}
-      \field{title}{Library Guides: Art History: Encyclopedia \& Biographical Sources}
-      \field{urlday}{6}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://guides.lib.berkeley.edu/c.php?g=478634&p=4684317
-      \endverb
-      \verb{url}
-      \verb https://guides.lib.berkeley.edu/c.php?g=478634&p=4684317
-      \endverb
-    \endentry
     \entry{liu_2019_pricing}{article}{}{}
       \name{author}{3}{}{%
         {{hash=c782cba07f60931258666d30169abf63}{%
@@ -952,39 +946,6 @@
       \verb 10.3390/risks7010016
       \endverb
     \endentry
-    \entry{mybib_2018_mybib}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=fd6cd2108f06923363c77b2e39e516e7}{%
-           family={MyBib},
-           familyi={M\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {MyBib}%
-      }
-      \list{publisher}{1}{%
-        {MyBib}%
-      }
-      \strng{namehash}{fd6cd2108f06923363c77b2e39e516e7}
-      \strng{fullhash}{fd6cd2108f06923363c77b2e39e516e7}
-      \strng{fullhashraw}{fd6cd2108f06923363c77b2e39e516e7}
-      \strng{bibnamehash}{fd6cd2108f06923363c77b2e39e516e7}
-      \strng{authorbibnamehash}{fd6cd2108f06923363c77b2e39e516e7}
-      \strng{authornamehash}{fd6cd2108f06923363c77b2e39e516e7}
-      \strng{authorfullhash}{fd6cd2108f06923363c77b2e39e516e7}
-      \strng{authorfullhashraw}{fd6cd2108f06923363c77b2e39e516e7}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{MyBib}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb https://mybib.com
-      \endverb
-      \verb{url}
-      \verb https://mybib.com
-      \endverb
-    \endentry
     \entry{nadler_2023_tornado}{misc}{}{}
       \name{author}{2}{}{%
         {{hash=5986c484e8cae441dbd31917707d0445}{%
@@ -1015,6 +976,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Tornado Cash and Blockchain Privacy: A Primer for Economists and Policymakers}
       \field{year}{2023}
+      \true{nocite}
       \verb{urlraw}
       \verb https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352337
       \endverb
@@ -1058,27 +1020,6 @@
       \verb 10.1016/j.mlwa.2021.100146
       \endverb
     \endentry
-    \entry{a2024_pentester}{misc}{}{}
-      \list{organization}{1}{%
-        {Pentester.com}%
-      }
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{labeltitlesource}{title}
-      \field{title}{Pentester}
-      \field{urlday}{9}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://pentester.com
-      \endverb
-      \verb{url}
-      \verb https://pentester.com
-      \endverb
-    \endentry
     \entry{pertsev_2019_tornado}{misc}{}{}
       \name{author}{3}{}{%
         {{hash=661749137826a4867213ad7639377ef1}{%
@@ -1111,6 +1052,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Tornado Cash Privacy Solution Version 1.4}
       \field{year}{2019}
+      \true{nocite}
       \verb{urlraw}
       \verb https://berkeley-defi.github.io/assets/material/Tornado%20Cash%20Whitepaper.pdf
       \endverb
@@ -1201,78 +1143,6 @@
       \verb 10.2139/ssrn.182775
       \endverb
     \endentry
-    \entry{a2023_subdial}{misc}{}{}
-      \list{organization}{1}{%
-        {Subdial Clubhouse}%
-      }
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeltitlesource}{title}
-      \field{title}{Subdial}
-      \field{urlday}{9}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://subdial.com
-      \endverb
-      \verb{url}
-      \verb https://subdial.com
-      \endverb
-    \endentry
-    \entry{a2019_tinyurlcom}{misc}{}{}
-      \list{organization}{1}{%
-        {Tinyurl.com}%
-      }
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labeltitlesource}{title}
-      \field{title}{TinyURL.com - shorten that long URL into a tiny URL}
-      \field{year}{2019}
-      \verb{urlraw}
-      \verb https://tinyurl.com/
-      \endverb
-      \verb{url}
-      \verb https://tinyurl.com/
-      \endverb
-    \endentry
-    \entry{econvizorgmacroeconomicvisualizations_2025_econvizorg}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=0d8fd2c1a32dc59dcfe6e466693f65ea}{%
-           family={Visualizations},
-           familyi={V\bibinitperiod},
-           given={EconViz.org\bibnamedelimb -\bibnamedelima Macroeconomic},
-           giveni={E\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Econviz.org}%
-      }
-      \strng{namehash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
-      \strng{fullhash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
-      \strng{fullhashraw}{0d8fd2c1a32dc59dcfe6e466693f65ea}
-      \strng{bibnamehash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
-      \strng{authorbibnamehash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
-      \strng{authornamehash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
-      \strng{authorfullhash}{0d8fd2c1a32dc59dcfe6e466693f65ea}
-      \strng{authorfullhashraw}{0d8fd2c1a32dc59dcfe6e466693f65ea}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{EconViz.org - Macroeconomic Visualizations}
-      \field{urlday}{10}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://econviz.org/
-      \endverb
-      \verb{url}
-      \verb https://econviz.org/
-      \endverb
-    \endentry
     \entry{vorobets_2023_causal}{article}{}{}
       \name{author}{1}{}{%
         {{hash=4e0ff35cdd5a7beeef8f65058e299a08}{%
@@ -1346,22 +1216,6 @@
       \endverb
       \verb{url}
       \verb https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4807200
-      \endverb
-    \endentry
-    \entry{a2018_wikimedia}{misc}{}{}
-      \list{organization}{1}{%
-        {Wikimedia Foundation}%
-      }
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labeltitlesource}{title}
-      \field{title}{Wikimedia Foundation}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb https://wikimediafoundation.org/
-      \endverb
-      \verb{url}
-      \verb https://wikimediafoundation.org/
       \endverb
     \endentry
     \entry{yuan_2024_deep}{misc}{}{}
@@ -1494,6 +1348,7 @@
       \field{title}{Applying blockchain to the modern legal system: Kleros as a decentralised dispute resolution system}
       \field{volume}{4}
       \field{year}{2023}
+      \true{nocite}
       \verb{doi}
       \verb 10.1365/s43439-023-00086-x
       \endverb

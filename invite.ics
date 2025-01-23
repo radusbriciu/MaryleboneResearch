@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+PRODID:-//Splash Event Planning System
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20250122T152140Z
+UID:1934db17674a6ab6a12dedd3b75966f823c9c7dc@palantir.events
+ /devcon-fellowship
+URL:http://palantir.events/devcon-fellowship
+DTSTART:20250207T220000Z
+DTEND:20250208T010000Z
+SUMMARY:The Open Source Fellowship
+DESCRIPTION:Here is your unique link - http://palantir.event
+ s/devcon-fellowship/virtual?guest-access-hash=NDU5MTIwOTU5fD
+ c3NjU4MDI0MXwxNzM3NTU5MjkyO2I0YzZjYjEzODAzOTY2MDY2YzhlMzY0MT
+ hkN2U5ODM2MDE5MDYwNzc2ZmUyYjRjNWI3ZjYxMmU4MDExYTQxNzQ%3D\n\n
+ For the best experience, join this meeting on your desktop
+LOCATION:TBD
+END:VEVENT
+END:VCALENDAR

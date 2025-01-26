@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.14)  23 JAN 2025 18:42
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.14)  23 JAN 2025 19:21
  restricted system commands enabled.
 **EFCM.tex
 (./EFCM.tex
@@ -739,14 +739,8 @@ L3 programming layer <2024-11-02>
 
 LaTeX Warning: There were undefined references.
 
-
-Package rerunfilecheck Warning: File `EFCM.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `EFCM.out':
-(rerunfilecheck)             Before: FF91EECDB025C00ECDAA8D6F6B189AF2;4370
-(rerunfilecheck)             After:  F9BC372CDB2247D78CAF37DFBC52F2EE;3872.
+Package rerunfilecheck Info: File `EFCM.out' has not changed.
+(rerunfilecheck)             Checksum: F9BC372CDB2247D78CAF37DFBC52F2EE;3872.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                EFCM
@@ -758,21 +752,15 @@ Package logreq Info: Writing requests to 'EFCM.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 16612 strings out of 475664
+ 16607 strings out of 475664
  125165,1373583 words of node,token memory allocated
  631 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 19 attribute, 63 glue_spec
 , 19 attribute_list, 1 write, 15 pdf_action nodes
-   avail lists: 1:1,2:828,3:373,4:187,5:327,6:102,7:5474,8:79,9:386,10:6,11:331
- 39164 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:828,3:373,4:175,5:327,6:96,7:5474,8:79,9:360,10:6,11:331
+ 39162 multiletter control sequences out of 65536+600000
  41 fonts using 3237415 bytes
  66i,6n,78p,692b,1243s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-warning  (pdf backend): unreferenced destination with name 'subsection.7.2'
-
-warning  (pdf backend): unreferenced destination with name 'subsection.7.1'
-
-warning  (pdf backend): unreferenced destination with name 'section.7'
 <c:/users/boomelage/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmon
 o10-regular.otf><c:/users/boomelage/appdata/local/programs/miktex/fonts/opentype
 /public/lm/lmromancaps10-regular.otf><c:/users/boomelage/appdata/local/programs/
@@ -784,9 +772,9 @@ m/lmroman10-bold.otf><c:/users/boomelage/appdata/local/programs/miktex/fonts/ope
 ntype/public/lm/lmroman10-regular.otf><c:/users/boomelage/appdata/local/programs
 /miktex/fonts/opentype/public/lm/lmroman12-regular.otf><c:/users/boomelage/appda
 ta/local/programs/miktex/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on EFCM.pdf (9 pages, 108485 bytes).
+Output written on EFCM.pdf (9 pages, 106896 bytes).
 
-PDF statistics: 329 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 131072)
- 193 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 318 PDF objects out of 1000 (max. 8388607)
+ 68 named destinations out of 1000 (max. 131072)
+ 177 words of extra memory for PDF output out of 10000 (max. 100000000)
 
